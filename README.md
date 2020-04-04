@@ -1,2 +1,2 @@
-# ambience.me
+# Ambience.me
 This is a shell script
